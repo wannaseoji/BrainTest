@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+html, body {
+  transform: scale(0.8); /* 페이지 전체를 80%로 축소 */
+  transform-origin: top left; /* 축소 기준점을 왼쪽 상단으로 설정 */
+  width: 125%; /* 축소에 맞춰 너비 보정 */
+  height: 125%; /* 축소에 맞춰 높이 보정 */
+  overflow: hidden; /* 스크롤바 방지 */
+}

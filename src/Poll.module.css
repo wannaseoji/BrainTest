@@ -1,0 +1,198 @@
+.child {
+    position: absolute;
+    top: 44px;
+    left: 0px;
+    background-color: rgba(217, 217, 217, 0.4);
+    width: 1920px;
+    height: 7px;
+}
+.b {
+    position: absolute;
+    top: 67px;
+    left: 58px;
+    font-size: 20px;
+    color: #fff;
+}
+.item {
+    position: absolute;
+    top: 44px;
+    left: 0px;
+    background-color: #7795ff;
+    width: 104px;
+    height: 7px;
+}
+.kIcon {
+    position: absolute;
+    top: 155px;
+    left: 886px;
+    width: 148px;
+    height: 147px;
+    object-fit: cover;
+}
+.b1 {
+    position: absolute;
+    top: 371px;
+    left: 633px;
+    font-size: 36px;
+    display: inline-block;
+    color: #fff;
+    width: 654px;
+    height: 62px;
+}
+.b2 {
+    position: absolute;
+    top: 797px;
+    left: 830px;
+    display: inline-block;
+    width: 258px;
+    height: 29px;
+    text-shadow: 0.2px 0 0 #444, 0 0.2px 0 #444, -0.2px 0 0 #444, 0 -0.2px 0 #444;
+}
+.b3 {
+    position: absolute;
+    top: 797px;
+    left: 1166px;
+    display: inline-block;
+    width: 258px;
+    height: 29px;
+    text-shadow: 0.2px 0 0 #444, 0 0.2px 0 #444, -0.2px 0 0 #444, 0 -0.2px 0 #444;
+}
+.b4 {
+    position: absolute;
+    top: 797px;
+    left: 158px;
+    display: inline-block;
+    width: 258px;
+    height: 29px;
+    text-shadow: 0.2px 0 0 #444, 0 0.2px 0 #444, -0.2px 0 0 #444, 0 -0.2px 0 #444;
+}
+.b5 {
+    position: absolute;
+    top: 797px;
+    left: 1502px;
+    display: inline-block;
+    width: 258px;
+    height: 29px;
+    text-shadow: 0.2px 0 0 #444, 0 0.2px 0 #444, -0.2px 0 0 #444, 0 -0.2px 0 #444;
+}
+.b6 {
+    position: absolute;
+    top: 797px;
+    left: 494px;
+    display: inline-block;
+    width: 258px;
+    height: 29px;
+    text-shadow: 0.2px 0 0 #444, 0 0.2px 0 #444, -0.2px 0 0 #444, 0 -0.2px 0 #444;
+}
+.inner3 {
+    position: absolute;
+    top: 676px;
+    left: 261px;
+    background-image: url('./image/Ellipse 3.svg'); /* 이미지 경로 설정 */
+    background-size: cover; /* 이미지가 요소에 맞게 조정되도록 설정 */
+    background-position: center; /* 이미지를 중앙에 배치 */
+    box-sizing: border-box;
+    width: 52px;
+    height: 52px;
+}
+.ellipseDiv {
+    position: absolute;
+    top: 671px;
+    left: 592px;
+    border-radius: 50%;
+    /* border: 3px dashed #f9f3ff; */
+    background-image: url('./image/Ellipse 4.svg');
+    background-size: cover; /* 이미지가 요소에 맞게 조정되도록 설정 */
+    background-position: center; /* 이미지를 중앙에 배치 */
+    /* box-sizing: border-box; */
+    width: 62px;
+    height: 62px;
+}
+.child1 {
+    position: absolute;
+    top: 666px;
+    left: calc(50% - 36px);
+    border-radius: 50%;
+    /* border: 3px dashed #f9f3ff; */
+    background-image: url('./image/Ellipse 5.svg');
+    background-size: cover; /* 이미지가 요소에 맞게 조정되도록 설정 */
+    background-position: center; /* 이미지를 중앙에 배치 */
+    box-sizing: border-box;
+    width: 72px;
+    height: 72px;
+}
+.child2 {
+    position: absolute;
+    top: 659px;
+    left: calc(50% + 293px);
+    border-radius: 50%;
+    /* border: 3px dashed #f9f3ff; */
+    background-image: url('./image/Ellipse 6.svg');
+    background-size: cover; /* 이미지가 요소에 맞게 조정되도록 설정 */
+    background-position: center; /* 이미지를 중앙에 배치 */
+    box-sizing: border-box;
+    width: 86px;
+    height: 86px;
+}
+.child3 {
+    position: absolute;
+    top: 654px;
+    left: calc(50% + 623px);
+    border-radius: 50%;
+    /* border: 3px solid #f9f3ff; */
+    background-image: url('./image/Ellipse 7.svg');
+    background-size: cover; /* 이미지가 요소에 맞게 조정되도록 설정 */
+    background-position: center; /* 이미지를 중앙에 배치 */
+    box-sizing: border-box;
+    width: 96px;
+    height: 96px;
+}
+.b7 {
+    position: absolute;
+    top: 0px;
+    left: 22.41px;
+}
+.groupChild {
+    position: absolute;
+    height: 79.2%;
+    width: 34.49%;
+    top: 12.8%;
+    right: 65.51%;
+    bottom: 8%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.parent {
+    position: absolute;
+    top: 67px;
+    left: 1806.59px;
+    width: 57.4px;
+    height: 25px;
+    font-size: 20px;
+    color: #727272;
+}
+.div {
+    width: 100%;
+    position: relative;
+    background-color: #070707;
+    height: 1080px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 22px;
+    color: #444;
+    font-family: SUIT;
+}
+
+.b:hover {
+    transform: scale(1.1) rotate(45deg); /* 크기를 10% 키우고 45도 회전 */
+    transition: transform 0.3s ease; /* 부드러운 애니메이션 효과 */
+  }
+  
+  /* ellipse(이미지) hover 스타일 */
+  .inner3:hover, .ellipseDiv:hover, .child1:hover, .child2:hover, .child3:hover {
+    transform: scale(1.1) rotate(45deg); /* 크기를 10% 키우고 45도 회전 */
+    transition: transform 0.3s ease; /* 부드러운 애니메이션 효과 */
+  }
